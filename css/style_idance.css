@@ -1,0 +1,50 @@
+body {
+	min-width: 320px;
+}
+.top-header-section {
+	min-width: 320px;
+
+}
+.about-us .right-content .wrapper .ceo-info {
+	    padding: 65px 0 65px;
+}
+.about-us .right-content .wrapper .ceo-info .info {
+	padding: 0;
+	display: flex;
+	align-items: center;
+}
+.about-us .right-content .wrapper .ceo-info .ceo-image {
+	width: 100px;
+	height: 100px;
+}
+.about-us .right-content .wrapper .ceo-info .name {
+	padding-top: 0;
+}
+.our-event .main-wrapper table td.check-button {
+    text-align: right;
+}
+.latest-articles {
+	background-image: url(../images/home/bg_idance.jpg);
+}
+.title-contacts {
+	padding-top: 0 !important;
+}
+.footer-information a {
+	color: #fff;
+}
+.footer-information a:hover {
+	color: #ff8a73;
+}
+.phone-mobile a {
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+}
+.phone-mobile {
+	margin-left: 30px;
+	display: none;
+	z-index: 5;
+}
+.search-option {
+	margin: 0 0px 0 60px;
+}

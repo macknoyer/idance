@@ -84,6 +84,36 @@
 /*(min-width: 768px) and (max-width: 991px)*/
 
 @media (max-width: 767px) {
+.latest-articles .main-content {
+      background: rgba(124,95,250,0.8);
+}
+.search-option {
+  margin: 0 0px 0 0px;
+  display: none;
+}
+.left-widget {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+
+}
+.theme-main-menu{
+  justify-content: space-between;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+}
+  .phone-mobile {
+    display: inline-block;
+  }
   .banner-one .camera_caption h1 br {display: none;}
   .banner-one {height: 650px !important;}
   .banner-one .camera_caption h1 {font-size: 40px; line-height: 50px;padding-top:100px; }
@@ -109,6 +139,8 @@
 /*(min-width: 576px) and (max-width: 767px)*/
 
 @media (max-width: 575px) {
+  .phone-mobile{margin-left: 10px;}
+  .phone-mobile a{font-size: 14px;}
   .top-header-section {padding-left: 15px;padding-right: 15px;}
   .about-us .right-content .wrapper  {max-width: 100%;padding: 0 15px;}
   .about-us .right-content .wrapper .ceo-info .info {width: 100%;padding: 20px 0 0;}
