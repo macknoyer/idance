@@ -1,5 +1,23 @@
+@font-face {
+  font-family: 'orphans';
+  src: url('../fonts/orphans/orphans.eot');
+  src: url('../fonts/orphans/orphans.eot?#iefix') format('embedded-opentype'),
+  	   url('../fonts/orphans/orphans.svg#orphans-bold') format('svg'),
+       url('../fonts/orphans/orphans.ttf') format('truetype'),
+       url('../fonts/orphans/orphans.woff') format('woff'),
+       url('../fonts/orphans/orphans.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
 body {
 	min-width: 320px;
+}
+h1,h2,h3,h4 {
+	font-weight: bold;
+  	font-family: 'orphans';
 }
 .top-header-section {
 	min-width: 320px;
@@ -47,4 +65,9 @@ body {
 }
 .search-option {
 	margin: 0 0px 0 60px;
+}
+
+.insta__feed-img {
+	height: 270px;
+	overflow: hidden;
 }

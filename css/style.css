@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap');
-/* CSS Document */
+ @import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:300,300i,400,400i,500,600,600i,700,800&display=swap');
+ /* CSS Document */
 
 /* 
     Created on   : 18/12/2018.
@@ -197,7 +197,7 @@
  }
 
  body {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: normal;
   color:rgba(0,0,0,0.7);
   font-size: 16px;
