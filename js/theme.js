@@ -107,7 +107,7 @@
         if(tSlider.length) {
             tSlider.owlCarousel({
               loop:true,
-              nav:false,
+              nav:true,
               dots:false,
               autoplay:true,
               margin:30,

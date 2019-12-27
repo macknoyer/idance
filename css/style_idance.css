@@ -19,6 +19,9 @@ h1,h2,h3,h4 {
 	font-weight: bold;
   	font-family: 'orphans';
 }
+.banner-one .camera_overlayer {
+	opacity: 0.9;
+}
 .top-header-section {
 	min-width: 320px;
 
@@ -43,6 +46,7 @@ h1,h2,h3,h4 {
 }
 .latest-articles {
 	background-image: url(../images/home/bg_idance.jpg);
+	margin-bottom: 385px;
 }
 .title-contacts {
 	padding-top: 0 !important;
@@ -70,4 +74,63 @@ h1,h2,h3,h4 {
 .insta__feed-img {
 	height: 270px;
 	overflow: hidden;
+}
+.our-classes .main-container .single-block .text {
+	padding-top: 30px;
+}
+.our-classes .main-container .single-block .text h6 a {
+	margin-top: 0;
+}
+.section-spacing {
+	padding-top: 100px;
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev, 
+.owl-carousel .owl-controls .owl-nav .owl-next, 
+.owl-carousel .owl-controls .owl-dot {
+	font-size: 0;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: calc(50% - 60px);
+	border-radius: 0;
+	background:rgba(0,0,0,0.5);
+	font-family: 'font-awesome';
+	color:rgba(255,255,255, 0.6);
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev {
+	left: -35px;
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev:before {
+	left: -35px;
+	content:'\f104';
+	font-family: 'font-awesome';
+	font-size: 28px;
+	line-height: 52px;
+}
+.owl-carousel .owl-controls .owl-nav .owl-next {
+	right: -35px;
+}
+.owl-carousel .owl-controls .owl-nav .owl-next:before {
+	right: -35px;
+	content:'\f105';
+	font-family: 'font-awesome';
+	font-size: 28px;
+	line-height: 52px;
+}
+.button-menu {
+    border-radius: 30px;
+    background: transparent;
+	font-size: 18px !important;
+	font-weight: 600;
+	padding-left: 45px;
+	color:#fff !important;
+	transition: all .3s ease-in-out;
+	padding: 0 20px !important;
+	height: 45px;
+	line-height: 44px;
+	margin-top: 6px !important;
+	border: 1px solid;
+}
+.dark-color .button-menu {
+	color: #000 !important;
 }
