@@ -35,7 +35,7 @@
 						<div class="row">
 							<div class="col-lg-4 col-sm-6 col-12 about-widget">
 								<a href="index.html" class="logo"><img src="images/logo/logo.png" alt=""></a>
-								<p>Join Dancers Around iDance community today! </p>
+								<p>Join Around iDance community today!</p>
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>

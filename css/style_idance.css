@@ -101,7 +101,7 @@ h1,h2,h3,h4 {
 }
 .preheader:after {
 	position: absolute;
-	top: 59px;
+	top: 53px;
 	width: 100%;
 	left: 0;
 	content: "";
