@@ -50,14 +50,17 @@
 			============================================== 
 			-->
 			<div class="top-header-section">
+				<div class="preheader">
+					<div class="phone-mobile"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+15855841914">+1 (585) 584-1914</a></div>	
+					<div class="phone-mobile"><i class="fa fa-map-marker" aria-hidden="true"></i>1029 Brighton Beach Ave Brooklyn, NY 11235-5603</div>	
+				</div>
 				<header class="theme-main-menu clearfix">
 					<div class="left-widget">
 						<div class="logo"><a href="index.php"><img src="images/logo/logo.png" alt=""></a></div>
-						<div class="phone-mobile"><a href="">+1 (585) 584-1914</a></div>	
+						<!-- <div class="phone-mobile"><a href="">1029 Brighton Beach Ave Brooklyn, NY 11235-5603</a></div>	 -->
 					</div>
 					<div class="right-widget">
-						<ul class="clearfix">
-							<!-- <li class="cart-button"><a href="#"><i class="flaticon-001-shopping-bag"></i></a></li> -->
+						<!-- <ul class="clearfix">
 							<li class="search-option">
 						 		<div class="dropdown">
 						 			<button type="button" class="dropdown-button" data-toggle="dropdown"><i class="flaticon-002-search"></i></button>
@@ -67,7 +70,7 @@
 									</form>
 						 		</div>
 						 	</li>
-						</ul>
+						</ul> -->
 					</div> <!-- /.right-widget -->
 					
 

@@ -6,11 +6,9 @@
 							    <li><a href="index.html">Calendar</a></li>
 							    <li><a href="#">Our Classes</a>
 							    </li>
-							    <li><a href="#">Studio</a>
-							    	<ul class="dropdown">
-							        	<li><a href="#">Studio Rental</a></li>
-							        	<li><a href="#">Studio Party</a></li>
-							       </ul>
+							    <li><a href="#">Studio Rental</a>
+							    </li>
+							    <li><a href="#">Retreats</a>
 							    </li>
 							    <li><a href="#">Media</a>
 							    </li>

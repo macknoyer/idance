@@ -19,6 +19,9 @@ h1,h2,h3,h4 {
 	font-weight: bold;
   	font-family: 'orphans';
 }
+#mega-menu-holder > ul > li > a {
+	margin: 0 10px;
+}
 .banner-one .camera_overlayer {
 	opacity: 0.9;
 }
@@ -57,15 +60,56 @@ h1,h2,h3,h4 {
 .footer-information a:hover {
 	color: #ff8a73;
 }
+.phone-mobile i{
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 20px;
+}
 .phone-mobile a {
 	color: #fff;
 	font-size: 16px;
 	font-weight: bold;
 }
 .phone-mobile {
-	margin-left: 30px;
-	display: none;
+	color: #fff;
+	margin-right: 40px;
+	font-size: 16px;
+	font-weight: bold;
+	/*display: none;*/
 	z-index: 5;
+
+}
+.phone-mobile:last-child {
+	margin-right: 0;
+}
+.top-header-section {
+	/*padding-top: 0;*/
+	padding-top: 15px;
+}
+.top-header-section.fixed .preheader{display: none;}
+.preheader {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: end;
+	padding: 0px 0 15px 0;
+	margin-bottom: 15px;
+	/*border-bottom: 1px solid #fff;*/
+	 transition: all ease 0.3s;
+}
+.preheader:after {
+	position: absolute;
+	top: 59px;
+	width: 100%;
+	left: 0;
+	content: "";
+	height: 1px;
+	background-color: rgba(255,255,255, 0.3);
+}
+#mega-menu-holder > ul > li > a {
+	padding: 5px 0 2px;
 }
 .search-option {
 	margin: 0 0px 0 60px;
@@ -133,4 +177,12 @@ h1,h2,h3,h4 {
 }
 .dark-color .button-menu {
 	color: #000 !important;
+}
+.dark-color .left-widget a {
+	color: #000 !important;
+}
+.left-widget {
+	float: left;
+	display: flex;
+	align-items: center;
 }
