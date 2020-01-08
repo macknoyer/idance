@@ -18,6 +18,7 @@
 		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
 		<!-- Main style sheet -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="vendor/nice-select/nice-select.css">
 		<link rel="stylesheet" type="text/css" href="css/style_idance.css">
 		<!-- responsive style sheet -->
 		<link rel="stylesheet" type="text/css" href="css/responsive.css">

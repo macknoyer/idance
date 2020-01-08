@@ -18,6 +18,7 @@
 		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
 		<!-- Main style sheet -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="vendor/nice-select/nice-select.css">
 		<link rel="stylesheet" type="text/css" href="css/style_idance.css">
 		<!-- responsive style sheet -->
 		<link rel="stylesheet" type="text/css" href="css/responsive.css">
@@ -50,10 +51,13 @@
 			============================================== 
 			-->
 			<div class="top-header-section">
+				<div class="preheader dark-color">
+					<div class="phone-mobile"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+15855841914">+1 (585) 584-1914</a></div>	
+					<div class="phone-mobile"><i class="fa fa-map-marker" aria-hidden="true"></i>1029 Brighton Beach Ave Brooklyn, NY 11235-5603</div>	
+				</div>
 				<header class="theme-main-menu dark-color clearfix">
 					<div class="left-widget">
 						<div class="logo"><a href="index.php"><img src="images/logo/logo2.png" alt=""></a></div>
-						<div class="phone-mobile"><a href="">+1 (585) 584-1914</a></div>	
 					</div>
 
 					<div class="right-widget">

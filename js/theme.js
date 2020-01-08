@@ -14,13 +14,24 @@
     $(document).on ('ready', function (){
         
         // -------------------- Navigation Scroll
-        $(window).on('scroll', function (){   
-          var sticky = $('.top-header-section'),
-          scroll = $(window).scrollTop();
-          if (scroll >= 100) sticky.addClass('fixed');
-          else sticky.removeClass('fixed');
+        // $(window).on('scroll', function (){   
+        //   var sticky = $('.top-header-section'),
+        //   scroll = $(window).scrollTop();
+        //   if (scroll >= 100) sticky.addClass('fixed');
+        //   else sticky.removeClass('fixed');
 
-        });
+        // });
+        
+    $('.select').niceSelect();
+
+    $(window).on('scroll', function(event) {    
+        var scroll = $(window).scrollTop();
+        if (scroll < 110) {
+            $(".top-header-section").removeClass("fixed");
+        } else{
+            $(".top-header-section").addClass("fixed");
+        }
+    });
 
         // ------------------------------ Theme Menu 
         var menu= $("#mega-menu-holder");
@@ -223,33 +234,6 @@
                 },
           })
         }
-
-        // ------------------------------ Partner Logo Footer 
-        var logoslider = $ ("#partner-logo");
-          if(logoslider.length) {
-              logoslider.owlCarousel({
-                loop:true,
-                nav:false,
-                dots:false,
-                autoplay:true,
-                autoplayTimeout:4000,
-                autoplaySpeed:1000,
-                lazyLoad:true,
-                singleItem:true,
-                responsive:{
-                    0:{
-                        items:1
-                    },
-                    550:{
-                        items:3
-                    },
-                    992:{
-                        items:4
-                    }
-                }
-            })
-          }
-
 
           // ------------------------------- Event CountDown
           var countTo= $("#count");

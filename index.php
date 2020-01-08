@@ -240,7 +240,7 @@
 										<li><i class="fa fa-calendar" aria-hidden="true"></i> October 20, 2018</li>
 										<li><i class="fa fa-clock-o" aria-hidden="true"></i> 4:30 pm -7:30Pm </li>
 									</ul> -->
-									<h6><a href="class-details.html">Flamenko</a></h6>
+									<h6><a href="class-details.html">Flamenco</a></h6>
 									<p>Flamenco, in its strictest sense, is a professionalized art-form based on the various folkloric music traditions of southern Spain in the autonomous community of Andalusia. In a wider sense, the term refers to a variety of Spanish musical styles developed as early as the 19th century. </p>
 									<a href="class-details.html" class="theme-button-two">Explore more<span></span></a>
 								</div>

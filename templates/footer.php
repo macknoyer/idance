@@ -116,7 +116,9 @@
 		<script src="vendor/jquery.countTo.js"></script>
 		<!-- Fancybox -->
 		<script src="vendor/fancybox/dist/jquery.fancybox.min.js"></script>
-
+		<script src="vendor/nice-select/jquery.nice-select.min.js"></script>
+		<!-- isotop -->
+		<script type="text/javascript" src="vendor/isotope.pkgd.min.js"></script>
 		<!-- Theme js -->
 		<script src="js/theme.js"></script>
 		</div> <!-- /.main-page-wrapper -->

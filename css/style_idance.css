@@ -19,6 +19,9 @@ h1,h2,h3,h4 {
 	font-weight: bold;
   	font-family: 'orphans';
 }
+h4,h2 {
+	margin-bottom: 1rem;
+}
 #mega-menu-holder > ul > li > a {
 	margin: 0 10px;
 }
@@ -27,7 +30,20 @@ h1,h2,h3,h4 {
 }
 .top-header-section {
 	min-width: 320px;
+	padding-top: 15px;
 
+}
+.top-header-section.fixed {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    -webkit-animation: sticky 0.5s;
+    -moz-animation: sticky 0.5s;
+    -o-animation: sticky 0.5s;
+    animation: sticky 0.5s; 
 }
 .about-us .right-content .wrapper .ceo-info {
 	    padding: 65px 0 65px;
@@ -81,10 +97,6 @@ h1,h2,h3,h4 {
 }
 .phone-mobile:last-child {
 	margin-right: 0;
-}
-.top-header-section {
-	/*padding-top: 0;*/
-	padding-top: 15px;
 }
 .top-header-section.fixed .preheader{display: none;}
 .preheader {
@@ -181,8 +193,217 @@ h1,h2,h3,h4 {
 .dark-color .left-widget a {
 	color: #000 !important;
 }
+
+.preheader.dark-color a,.preheader.dark-color i,.preheader.dark-color .phone-mobile{color:#1b1b1b;}
+.preheader.dark-color::after{background-color: rgba(0,0,0, 0.1);}
 .left-widget {
 	float: left;
 	display: flex;
 	align-items: center;
+}
+.img-class {
+	width: 100%;
+	height: 100%;
+	min-height: 350px;
+	overflow: hidden;
+}
+.text p {
+	margin-bottom: 1rem;
+}
+.text p:last-child {
+	margin-bottom: 0;
+}
+.single-blog-post .img-box {
+    height: 450px;
+    overflow: hidden;
+    display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+}
+.rental-container {
+	text-align: center;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+	align-content: center;
+}
+
+.rental-container  div {
+	flex: 0 0 100%;
+	font-size: 18px;
+}
+.rental-img {
+	margin: auto;
+	width: 80px;
+	height: 80px;
+	margin-bottom: 20px;
+}
+
+.rental-img img {
+	width: 100%;
+	height: 100%;
+}
+.our-class-details .class-banner {
+	box-shadow: 0px 23px 45px 0px rgba(197, 197, 197, 0.45);
+}
+.our-class-details .class-banner .shape {
+	width: 136px;
+	height: 240px;
+}
+.rental__price {
+	height: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+	box-shadow: 0px 23px 45px 0px rgba(197, 197, 197, 0.45);
+	background: #faf9f9;
+	align-content: start;
+}
+.rental__price-header {
+	padding: 30px 0;
+	text-align: center;
+	color: #fff;
+	background-color: #7c5ffa;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+.rental__price-header h4{
+	margin-bottom: 0;
+	color: #fff;
+}
+.rental__price-text {
+	padding: 30px 20px;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+.rental__price-text ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+	text-align: center;
+}
+.rental__price-text ul li {
+	margin-bottom: 15px;
+	font-size: 18px;
+	display: block;
+}
+.rental__price-text ul li strong {
+	font-size: 20px;
+}
+.rental__price-text ul li:last-child {
+	margin-bottom: 0;
+}
+.rental__price-pay {
+	border: 4px solid #eaeaea;
+	padding: 40px 30px;
+}
+
+.rental__price-pay p {
+	margin-bottom: 1rem;
+}
+.rental__price-pay .nice-select {
+	margin-top: 20px;
+}
+.nice-select {
+	float: none;
+	display: inline-block;
+	font-size: 16px;
+	border: 1px solid #c6c6c6;
+}
+
+a.single-item {display: block;}
+
+
+@keyframes sticky {
+  0% {
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -o-transform: translateY(-100%);
+    transform: translateY(-100%); }
+  100% {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%); } }
+@-webkit-keyframes sticky {
+  0% {
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -o-transform: translateY(-100%);
+    transform: translateY(-100%); }
+  100% {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%); } }
+@-o-keyframes sticky {
+  0% {
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -o-transform: translateY(-100%);
+    transform: translateY(-100%); }
+  100% {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%); } }
+@-moz-keyframes sticky {
+  0% {
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -o-transform: translateY(-100%);
+    transform: translateY(-100%); }
+  100% {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%); } }
+@-ms-keyframes sticky {
+  0% {
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -o-transform: translateY(-100%);
+    transform: translateY(-100%); }
+  100% {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%); } 
+}
+
+
+
+
+/*********************************************************MEDIA****/
+
+@media (max-width: 991px) {
+	.img-class {min-height: auto; margin-bottom: 20px;}
+	.rental__price,.rental-container {
+		margin-bottom: 20px;
+	}
 }
