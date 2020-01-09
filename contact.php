@@ -67,9 +67,6 @@
 									<div class="col-md-6">
 										<input type="email" placeholder="Your Email *" name="email">
 									</div>
-									<div class="col-12">
-										<input type="text" placeholder="Website url" name="web">
-									</div>
 								</div>
 								<textarea placeholder="Type your message" name="message"></textarea>
 								<button>Submit Request</button>

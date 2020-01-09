@@ -82,7 +82,27 @@
 				</div> <!-- /.bottom-footer -->
 			</footer> <!-- /.theme-footer-one -->
 			
-
+			<!-- Modal -->
+					<div class="modal fade" id="exampleModal" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+					  <div class="modal-dialog" role="document">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <h5 class="modal-title" id="exampleModalLabel">Get a free class!</h5>
+					        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					          <span aria-hidden="true">&times;</span>
+					        </button>
+					      </div>
+					      <form class="modal-body contact-form">
+					      	<input type="text" placeholder="Your Name *" name="name">
+					      	<input type="email" placeholder="Your Email *" name="email">
+					      	<textarea placeholder="Type your message" name="message"></textarea>
+					      </form>
+					      <div class="modal-footer">
+					        <button class="button" type="submit">Submit</button>
+					      </div>
+					    </div>
+					  </div>
+					</div>
 	        
 
 	        <!-- Scroll Top Button -->

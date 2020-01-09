@@ -15,7 +15,7 @@
 body {
 	min-width: 320px;
 }
-h1,h2,h3,h4 {
+h1,h2,h3,h4,.modal-title {
 	font-weight: bold;
   	font-family: 'orphans';
 }
@@ -193,7 +193,18 @@ h4,h2 {
 .dark-color .left-widget a {
 	color: #000 !important;
 }
-
+.button {
+	width: 200px;
+    height: 60px;
+    color: #fff;
+	font-weight: 600;
+	background: #8161f5;
+	/*margin-top: 30px;*/
+	transition: all .3s ease-in-out;
+}
+.button:hover {
+	background: #ff8a73;
+}
 .preheader.dark-color a,.preheader.dark-color i,.preheader.dark-color .phone-mobile{color:#1b1b1b;}
 .preheader.dark-color::after{background-color: rgba(0,0,0, 0.1);}
 .left-widget {
@@ -325,7 +336,9 @@ h4,h2 {
 	font-size: 16px;
 	border: 1px solid #c6c6c6;
 }
-
+/*.modal-backdrop {z-index: 98;}*/
+.modal-body.contact-form {padding-top: 30px;}
+.modal-content{border-radius:0;}
 a.single-item {display: block;}
 
 

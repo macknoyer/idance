@@ -15,7 +15,7 @@
 							    <li><a href="events.php">Events</a>
 							    </li>
 							    <li><a href="contact.php">Contact us</a></li>
-							    <li><a class="button-menu" href="#">Free Class</a>
+							    <li><a class="button-menu" href="#" data-toggle="modal" data-target="#exampleModal">Free Class</a>
 							    </li>
 						   </ul>
 						</nav> <!-- /#mega-menu-holder -->
