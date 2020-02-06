@@ -22,6 +22,9 @@ h1,h2,h3,h4,.modal-title {
 h4,h2 {
 	margin-bottom: 1rem;
 }
+.theme-inner-banner .title {
+	font-size: 72px;
+}
 #mega-menu-holder > ul > li > a {
 	margin: 0 10px;
 }

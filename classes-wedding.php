@@ -6,8 +6,8 @@
 			-->
 			<div class="theme-inner-banner">
 				<img src="images/shape/13.png" alt="" class="bg-shape">
-				<img src="images/shape/dancer3.png" alt="" class="shape-one">
-				<img src="images/shape/dancer.png" alt="" class="shape-two">
+				<!-- <img src="images/shape/dancer3.png" alt="" class="shape-one">
+				<img src="images/shape/dancer.png" alt="" class="shape-two"> -->
 				<!-- <img src="images/shape/dancer2.png" alt="" class="shape-three"> -->
 				<div class="container">
 					<h2 class="title">Wedding dance in Brooklyn</h2>
