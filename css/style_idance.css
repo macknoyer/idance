@@ -361,7 +361,17 @@ p:last-child {
 .modal-content{border-radius:0;}
 a.single-item {display: block;}
 
+.efbl_story_text,.efbl_fb_story .efbl_story_meta {
+    display: none !important;
 
+}
+.efbl_popupp_footer {
+	border-radius: 0 !important;
+}
+.efbl_popup_readmore {
+    margin-top: 10px;
+    border-bottom: 1px solid;
+}
 @keyframes sticky {
   0% {
     -webkit-transform: translateY(-100%);
