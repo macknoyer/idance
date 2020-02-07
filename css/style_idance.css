@@ -36,6 +36,23 @@ h4,h2 {
 	padding-top: 15px;
 
 }
+.inline-list {
+	margin-bottom: 1rem;
+}
+.inline-list li {
+	display: inline-block;
+	margin-right: 20px;
+	font-size: 20px;
+}
+.inline-list li:last-child {
+	margin-right: 0;
+}
+p {
+	margin-bottom: 1rem;
+}
+p:last-child {
+	margin-bottom: 0;
+}
 .top-header-section.fixed {
 
     position: fixed;

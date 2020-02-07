@@ -26,12 +26,20 @@
 						<div class="row mb-5">
 							<div class="col-12">
 								<div class="text">
+									<h2>Usefull information & contacts</h2>
+									<ul class="inline-list">
+										<li><a target="_blank" href="www.dancelaura.com">www.dancelaura.com</a></li>
+										<li><a target="_blank" href="www.bellytrancegroup.com">www.bellytrancegroup.com</a></li>
+										<li><a target="_blank" href="www.idance-NYC.com">www.idance-NYC.com</a></li>
+										<li><a href="tel:9173328474">917-33-28-474</a></li>
+									</ul>
 									<h2>Finding the Ideal Rehearsal Space in NYC</h2>
 									<p>Through the use of cheap rehearsal space, you can ensure that all of the students that are coming for dance are able to do their rehearsal and provide you with an idea of just how much more space you may need. Never worry about not being able to have the right space for the job through the rehearsal space Brooklyn that you’re renting. Choosing a space can prove to be difficult, but when you find the perfect one for rent, you will not want anything else. You will know that this dance studio rental is the right one for the job and the dance practice room that you need for all rehearsals.</p>
+									
 									<h4>Choosing Space That Works For You For Rent</h4>
 									<p>When you choose rehearsal space NYC to rent, you need to know that this is the right space for you. Look into the size, take a walk through of the dance studio rental and make sure to know the price. For any type of dance rehearsal, having the ideal rehearsal space Brooklyn is going to provide all of your dancers with the specific space that they need, and can even help you enjoy the dance that they are putting on for one and all to see. Don’t let all of the dance studio rentals go to waste, and make sure to find one to rent that works for you.</p>
 									<p>The cheap rehearsal space might seem hard to find, but when you search in the right areas, you can find the perfect space that was made for you, and provides you with the needs and wants that you have.</p>
-									<p>Choose a dance rehearsal space to rent, and enjoy all that comes from the space. Not everyone is able to find the perfect dance studio rental, and you can be one of the few that is able to do so with ease. The studio should have everything that you need for the dance, whatever type of dance that it is, and all of the dancers that you work with. Find the perfect rehearsal space in NYC that works with you.</p>
+									<p>Choose a dance rehearsal space to rent, and enjoy all that comes from the space. Not everyone is able to find the perfect dance studio rental, and you can be one of the few that is able to do so with ease. The studio should have everything that you need for the dance, whatever type of dance that it is, and all of the dancers that you work with. Find the perfect rehearsal space in NYC that works with you.</p>	
 								</div>
 							</div>
 						</div>
@@ -52,14 +60,6 @@
 							<div class="col-12">
 								<h2>Affordable Rehearsal Space NYC for Rent</h2>
 								<p>While searching for rehearsal space NYC, finding the ideal room that provides not only a cheap price, but enough square feet for everything you need to do may seem to be hard. This is due to the fact that sometimes the spaces might be available for lease, but they are not affordable or not large enough for the reason that you have. Many times dance requires a decent amount of space for all of the dancers, so the room has to provide the right feel, space and areas for all of the rehearsing you’re going to be doing inside it.</p>
-								<!-- <ul>
-									<li>650 ft2</li>
-									<li>Wood Parquet</li>
-									<li>Portble freestanding ballet barres</li>
-									<li>Mirrors</li>
-									<li>Audio Equipment</li>
-									<li>Air-conditioning</li>
-								</ul> -->
 							</div>
 						</div>
 					</div>
