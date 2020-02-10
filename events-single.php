@@ -31,7 +31,7 @@
 									<ul class="date-meta">
 										<li><i class="fa fa-clock-o" aria-hidden="true"></i> October 22, 2018</li>
 									</ul>
-									<h2 class="blog-title">Musical Theatre is a performance based class focusing on jazz</h2>
+									<h2 class="blog-title">MIX DANCE KIDS 5-6 YEARS OLD</h2>
 									<p>Musical Theatre is a performance-based class focusing on jazz technique and skills instrumental in Broadway-style choreography. Ballet and classical jazz exercises will be emphasized during center floor warm up. Across the floor exercises will develop a variety of turns and leaps. Students will learn original choreography from some of Broadway's most celebrated choreographers, covering a wide range of musical theatre eras and styles</p>
 									<p>Modern dance is a form of movement that draws upon ballet, jazz, yoga, Pilates, and many more styles of dance and athletics. Modern is focused on creating new and unique forms of movement and expression, without the codified steps required in ballet. Certain stylized forms of modern that will be introduced in class include techniques from visionaries such as Alvin Ailey, </p>
 									<blockquote>Students experience a variety of tap styles with strong emphasis on technique and performance. </blockquote>
