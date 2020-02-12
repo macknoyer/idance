@@ -323,6 +323,7 @@
 									<div class="text">
 										<h6>Laura Prokopenko</h6>
 										<p>Founder / Belly Dance teacher</p>
+										<p class="single-team-member-info">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 									</div> <!-- /.text -->
 								</div> <!-- /.single-team-member -->
 							</div>
@@ -340,6 +341,7 @@
 									<div class="text">
 										<h6>Team member</h6>
 										<p>Belly Dance teacher</p>
+										<p class="single-team-member-info">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 									</div> <!-- /.text -->
 								</div> <!-- /.single-team-member -->
 							</div>
@@ -357,6 +359,7 @@
 									<div class="text">
 										<h6>Team member 3</h6>
 										<p>Lezginka Dance teacher</p>
+										<p class="single-team-member-info">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 									</div> <!-- /.text -->
 								</div> <!-- /.single-team-member -->
 							</div>
@@ -374,6 +377,7 @@
 									<div class="text">
 										<h6>Team member 4</h6>
 										<p>Hip-Hop Expert</p>
+										<p class="single-team-member-info">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 									</div> <!-- /.text -->
 								</div> <!-- /.single-team-member -->
 							</div>

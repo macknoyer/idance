@@ -42,8 +42,8 @@
     padding-top: 15px;
   }
   .dark-color #mega-menu-holder>ul> li> a {color: #fff;}
-  .section-spacing,.theme-siddebar {padding-top: 100px;}
-  .section-spacing-bottom {padding-bottom: 100px;}
+  .section-spacing,.theme-siddebar {padding-top: 50px;}
+  .section-spacing-bottom {padding-bottom: 50px;}
   .top-header-section {padding: 15px 50px 10px;}
   .top-header-section.fixed {padding: 5px 15px;}
   .theme-main-menu .menu-wrapper {
