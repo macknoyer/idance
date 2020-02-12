@@ -3,6 +3,8 @@
 				   	<div class="menu-wrapper">
 				   		<nav id="mega-menu-holder" class="clearfix">
 						   <ul class="clearfix">
+
+								
 							    <li><a href="index.php">Calendar</a></li>
 							    <li><a href="classes.php">Our Classes</a>
 							    </li>

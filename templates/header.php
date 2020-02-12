@@ -58,7 +58,8 @@
 				<header class="theme-main-menu clearfix">
 					<div class="left-widget">
 						<div class="logo"><a href="index.php"><img src="images/logo/logo.png" alt=""></a></div>
-						<!-- <div class="phone-mobile"><a href="">1029 Brighton Beach Ave Brooklyn, NY 11235-5603</a></div>	 -->
+						<!-- <div class="phone-mobile head-fixed"><a href="">+1 (585) 584-1914</a></div>	 -->
+						<div class="phone-mobile head-fixed"><i class="fa fa-phone" aria-hidden="true"></i><a href="">+1 (585) 584-1914</a></div>
 					</div>
 					<div class="right-widget">
 						<!-- <ul class="clearfix">
