@@ -116,31 +116,31 @@
 
     	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
     	<!-- jQuery -->
-		<script src="vendor/jquery.2.2.3.min.js"></script>
+		<!-- <script src="vendor/jquery.2.2.3.min.js"></script> -->
 		<!-- Popper js -->
-		<script src="vendor/popper.js/popper.min.js"></script>
+		<!-- <script src="vendor/popper.js/popper.min.js"></script> -->
 		<!-- Bootstrap JS -->
-		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		<!-- <script src="vendor/bootstrap/js/bootstrap.min.js"></script> -->
 		<!-- Camera Slider -->
-		<script src='vendor/Camera-master/scripts/jquery.mobile.customized.min.js'></script>
-	    <script src='vendor/Camera-master/scripts/jquery.easing.1.3.js'></script> 
-	    <script src='vendor/Camera-master/scripts/camera.min.js'></script>
+		<!-- <script src='vendor/Camera-master/scripts/jquery.mobile.customized.min.js'></script> -->
+	    <!-- <script src='vendor/Camera-master/scripts/jquery.easing.1.3.js'></script>  -->
+	    <!-- <script src='vendor/Camera-master/scripts/camera.min.js'></script> -->
 	    <!-- menu  -->
-		<script src="vendor/menu/src/js/jquery.slimmenu.js"></script>
+		<!-- <script src="vendor/menu/src/js/jquery.slimmenu.js"></script> -->
 		<!-- AOS js -->
-		<script src="vendor/aos-next/dist/aos.js"></script>
+		<!-- <script src="vendor/aos-next/dist/aos.js"></script> -->
 		<!-- owl.carousel -->
-		<script src="vendor/owl-carousel/owl.carousel.min.js"></script>
+		<!-- <script src="vendor/owl-carousel/owl.carousel.min.js"></script> -->
 		<!-- js count to -->
-		<script src="vendor/jquery.appear.js"></script>
-		<script src="vendor/jquery.countTo.js"></script>
+		<!-- <script src="vendor/jquery.appear.js"></script> -->
+		<!-- <script src="vendor/jquery.countTo.js"></script> -->
 		<!-- Fancybox -->
-		<script src="vendor/fancybox/dist/jquery.fancybox.min.js"></script>
-		<script src="vendor/nice-select/jquery.nice-select.min.js"></script>
+		<!-- <script src="vendor/fancybox/dist/jquery.fancybox.min.js"></script> -->
+		<!-- <script src="vendor/nice-select/jquery.nice-select.min.js"></script> -->
 		<!-- isotop -->
-		<script type="text/javascript" src="vendor/isotope.pkgd.min.js"></script>
+		<!-- <script type="text/javascript" src="vendor/isotope.pkgd.min.js"></script> -->
 		<!-- Theme js -->
-		<script src="js/theme.js"></script>
+		<script src="js/scripts.js"></script>
 		</div> <!-- /.main-page-wrapper -->
 	</body>
 </html>
