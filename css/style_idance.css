@@ -22,9 +22,16 @@ h1,h2,h3,h4,.modal-title {
 h4,h2 {
 	margin-bottom: 1rem;
 }
+.theme-inner-banner {
+	padding: 170px 0 50px;
+}
 .theme-inner-banner .title {
 	font-size: 72px;
 }
+.theme-inner-banner .bg-shape {
+	bottom: -300px;
+}
+
 #mega-menu-holder > ul > li > a {
 	margin: 0 10px;
 }
@@ -473,9 +480,16 @@ a.single-item {display: block;}
 	}
 }
 @media (max-width: 991px) {
+	.theme-inner-banner {
+		padding: 200px 0 50px;
+	}
 	.img-class {min-height: auto; margin-bottom: 20px;}
 	.rental__price,.rental-container {
 		margin-bottom: 20px;
+	}
+	#mega-menu-holder {
+		max-height: 380px;
+		overflow-y: visible;
 	}
 	#mega-menu-holder > ul > li > a {
 
