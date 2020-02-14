@@ -24,6 +24,7 @@ h4,h2 {
 }
 .theme-inner-banner {
 	padding: 170px 0 50px;
+	overflow: hidden;
 }
 .theme-inner-banner .title {
 	font-size: 72px;
