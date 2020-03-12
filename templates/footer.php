@@ -91,6 +91,7 @@
 					        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 					          <span aria-hidden="true">&times;</span>
 					        </button>
+					        <div class="modal-header-note">Energy Exchange: Check-in at our studio on your Instagram or Facebook to get your Free Class.</div>
 					      </div>
 					      <form class="modal-body contact-form">
 					      	<input type="text" placeholder="Your Name *" name="name">

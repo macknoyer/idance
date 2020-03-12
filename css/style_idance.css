@@ -44,6 +44,18 @@ h4,h2 {
 	padding-top: 15px;
 
 }
+.modal-header {
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+.modal-header-note {
+	flex: 0 0 100%;
+	max-width: 100%;
+	margin-top: 10px;
+}
 .inline-list {
 	margin-bottom: 1rem;
 }
